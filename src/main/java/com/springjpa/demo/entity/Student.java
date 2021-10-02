@@ -16,6 +16,11 @@ public class Student {
 	public void setRoll(int roll) {
 		this.roll = roll;
 	}
+	public Student(int id, int roll) {
+		super();
+		this.id = id;
+		this.roll = roll;
+	}
 	
 
 }
