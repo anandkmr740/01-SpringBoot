@@ -4,6 +4,10 @@ public class Employee {
 
 	private int id;
 	private int salary;
+
+       public void dataload(){
+---------------------------------------
+}
 	public int getId() {
 		return id;
 	}
