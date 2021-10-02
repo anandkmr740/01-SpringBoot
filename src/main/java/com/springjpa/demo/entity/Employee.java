@@ -5,9 +5,10 @@ public class Employee {
 	private int id;
 	private int salary;
 
-       public void dataload(){
----------------------------------------
-}
+
+       public void dataload(){}
+        priate static final String = "Anand Kumar";
+
 	public int getId() {
 		return id;
 	}
@@ -21,4 +22,5 @@ public class Employee {
 		this.salary = salary;
 	}
 	System.out.println();
+        System.out.println("ANand");
 }
