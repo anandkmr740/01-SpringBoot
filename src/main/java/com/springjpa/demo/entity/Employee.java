@@ -4,6 +4,7 @@ public class Employee {
 
 	private int id;
 	private int salary;
+        priate static final String = "Anand Kumar";
 	public int getId() {
 		return id;
 	}
@@ -17,4 +18,5 @@ public class Employee {
 		this.salary = salary;
 	}
 	System.out.println();
+        System.out.println("ANand");
 }
